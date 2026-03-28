@@ -1,0 +1,226 @@
+\documentclass[a4paper,12pt,twoside]{memoir}
+
+% Castellano
+\usepackage[spanish,es-tabla]{babel}
+\selectlanguage{spanish}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern} % Scalable font
+\usepackage{microtype}
+\usepackage{placeins}
+
+\RequirePackage{booktabs}
+\RequirePackage[table]{xcolor}
+\RequirePackage{xtab}
+\RequirePackage{multirow}
+
+% Links
+\PassOptionsToPackage{hyphens}{url}\usepackage[colorlinks]{hyperref}
+\hypersetup{
+	allcolors = {red}
+}
+
+% Ecuaciones
+\usepackage{amsmath}
+
+% Rutas de fichero / paquete
+\newcommand{\ruta}[1]{{\sffamily #1}}
+
+% Párrafos
+\nonzeroparskip
+
+% Huérfanas y viudas
+\widowpenalty100000
+\clubpenalty100000
+
+\let\tmp\oddsidemargin
+\let\oddsidemargin\evensidemargin
+\let\evensidemargin\tmp
+\reversemarginpar
+
+% Imágenes
+
+% Comando para insertar una imagen en un lugar concreto.
+% Los parámetros son:
+% 1 --> Ruta absoluta/relativa de la figura
+% 2 --> Texto a pie de figura
+% 3 --> Tamaño en tanto por uno relativo al ancho de página
+\usepackage{graphicx}
+
+\newcommand{\imagen}[3]{
+	\begin{figure}[!h]
+		\centering
+		\includegraphics[width=#3\textwidth]{#1}
+		\caption{#2}\label{fig:#1}
+	\end{figure}
+	\FloatBarrier
+}
+
+
+
+
+
+
+
+\graphicspath{ {./img/} }
+
+% Capítulos
+\chapterstyle{bianchi}
+\newcommand{\capitulo}[2]{
+	\setcounter{chapter}{#1}
+	\setcounter{section}{0}
+	\setcounter{figure}{0}
+	\setcounter{table}{0}
+	\chapter*{#2}
+	\addcontentsline{toc}{chapter}{#2}
+	\markboth{#2}{#2}
+}
+
+% Apéndices
+\renewcommand{\appendixname}{Apéndice}
+\renewcommand*\cftappendixname{\appendixname}
+
+\newcommand{\apendice}[1]{
+	%\renewcommand{\thechapter}{A}
+	\chapter{#1}
+}
+
+\renewcommand*\cftappendixname{\appendixname\ }
+
+% Formato de portada
+
+\makeatletter
+\usepackage{xcolor}
+\newcommand{\tutor}[1]{\def\@tutor{#1}}
+\newcommand{\tutorb}[1]{\def\@tutorb{#1}}
+
+\newcommand{\course}[1]{\def\@course{#1}}
+\definecolor{newBox}{HTML}{D8AD6E}
+\def\maketitle{
+  \null
+  \thispagestyle{empty}
+  % Cabecera ----------------
+\begin{center}
+  \noindent\includegraphics[width=\textwidth]{CabeceraEPS.png}\vspace{1.5cm}%
+\end{center}
+  
+  % Título proyecto y escudo salud ----------------
+  \begin{center}
+    \begin{minipage}[c][1.5cm][c]{.20\textwidth}
+        \includegraphics[width=\textwidth]{logo_GIS.png}
+    \end{minipage}
+  \end{center}
+  
+  \begin{center}
+    \colorbox{newBox}{%
+        \begin{minipage}{.8\textwidth}
+          \vspace{.5cm}\Large
+          \begin{center}
+          \textbf{Necesidades del Paciente}\vspace{.6cm}\\
+          \textbf{\LARGE\@title{}}
+          \end{center}
+          \vspace{.2cm}
+        \end{minipage}
+    }%
+  \end{center}
+  
+    % Datos de alumno, curso y tutores ------------------
+  \begin{center}%
+  {%
+    \noindent\LARGE
+    Presentado por \@author{}\\ 
+    en Universidad de Burgos\\
+    \vspace{0.5cm}
+    \noindent\Large
+    \@date{}\\
+    \vspace{0.5cm}
+
+  }%
+  \end{center}%
+  \null
+  \cleardoublepage
+  }
+\makeatother
+
+\newcommand{\nombre}{Nicolás José García Gómez, Iván Mamolar Rupérez, Álvar Martínez Bailón y Pablo Santamaría Miguel}
+
+
+% Datos de portada
+\title{Dispositivo de detección de movimientos involuntarios en pacientes con parálisis cerebral ateoide}
+\author{\nombre}
+\date{\today}
+
+
+\begin{document}
+
+\maketitle
+
+
+
+\frontmatter
+
+% Abstract en castellano
+\renewcommand*\abstractname{Resumen}
+\begin{abstract}
+Existen numerosas enfermedades que generan afecciones motoras provocando que las personas que la padecen sean incapaces de controlar los movimientos que realizan. 
+
+Cuando se trabaja con pacientes de este tipo una de las dificultades se encuentra en determinar que movimientos de los que realizan son voluntarios y cuales son involuntarios. Esto es de vital importancia a la hora de estudiar sus reacciones y al establecer conversaciones con ellos.
+
+Con el objetivo de facilitar la identificación del tipo de movimiento que realizan en cada momento, se ha diseñado, de forma principalmente teórica, una serie de dispositivos que les podría servir de gran ayuda, centrándose especialmente en pacientes que padecen parálisis cerebral atetoide.
+
+\end{abstract}
+
+\renewcommand*\abstractname{Descriptores}
+\begin{abstract}
+Parálisis cerebral, parálisis cerebral atetoide, afecciones motoras, movimientos involuntarios, aplicación web.
+\end{abstract}
+
+\clearpage
+
+% Abstract en inglés
+\renewcommand*\abstractname{Abstract}
+\begin{abstract}
+There are numerous conditions that cause motor impairments, leading affected individuals to be unable to control their movements.
+
+When working with patients of this type, one of the main challenges is determining which of their movements are voluntary and which are involuntary. This is of vital importance when studying their responses and when engaging in communication with them.
+
+With the aim of facilitating the identification of the type of movement performed at any given moment, a series of devices has been designed, primarily on a theoretical basis, that could be of great assistance, with a particular focus on patients with athetoid cerebral palsy.
+\end{abstract}
+
+\renewcommand*\abstractname{Keywords}
+\begin{abstract}
+Cerebral palsy, athetoid cerebral palsy, motor impairments, involuntary movements, web application.
+\end{abstract}
+
+\clearpage
+
+% Indices
+\tableofcontents
+
+\clearpage
+
+\listoffigures
+
+\clearpage
+
+\listoftables
+\clearpage
+
+
+\mainmatter
+\include{./tex/1_introduccion}
+\include{./tex/2_objetivos}
+\include{./tex/3_teoricos}
+\include{./tex/4_metodologia}
+\include{./tex/5_resultados}
+\include{./tex/6_discusion}
+\include{./tex/7_conclusiones}
+\include{./tex/8_lineas_futuras}
+
+
+
+
+\bibliographystyle{apalike}
+\bibliography{bibliografia}
+
+\end{document}
