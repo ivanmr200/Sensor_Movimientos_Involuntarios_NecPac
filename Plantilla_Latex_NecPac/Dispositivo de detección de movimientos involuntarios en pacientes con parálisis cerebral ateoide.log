@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  28 MAR 2026 14:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  8 APR 2026 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1016,42 +1016,17 @@ l.1 \capitulo{2}{Objetivos}
 
 
 
-]
-
-LaTeX Warning: Citation `mayoclinic_paralisis' on page 5 undefined on input lin
-e 10.
-
-
-LaTeX Warning: Citation `documento_paralisis' on page 5 undefined on input line
- 12.
-
-[5]
-
-LaTeX Warning: Citation `aspace_tipos_paralisis' on page 6 undefined on input l
-ine 34.
-
+] [5]
 LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
-[6]
-
-LaTeX Warning: Citation `statpearls_paralisis_atetoide' on page 7 undefined on 
-input line 47.
-
+ [6]
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
-[7]
-
-LaTeX Warning: Citation `frontiers_wereable_temblores' on page 8 undefined on i
-nput line 57.
-
-
-LaTeX Warning: Citation `wereable_inercial' on page 8 undefined on input line 6
-3.
-
-)
+ [7])
 LaTeX Info: Redefining \. on input line 213.
 LaTeX Info: Redefining \% on input line 213.
- [8]
+
+[8]
 \openout2 = `./tex/4_metodologia.aux'.
 
  (tex/4_metodologia.tex
@@ -1100,14 +1075,21 @@ LaTeX Info: Redefining \% on input line 214.
 
 
 ]) [17]
-No file "Dispositivo de detección de movimientos involuntarios en pacientes co
-n parálisis cerebral ateoide".bbl.
+(Dispositivo de detección de movimientos involuntarios en pacientes con parál
+isis cerebral ateoide.bbl [18
+
+
+
+]
+bibitemlist
+)
 
 Class memoir Warning: The material used in the headers is too large
 (15.35403pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 226.
 
+[19]
 \tf@toc=\write5
 \openout5 = `"Dispositivo de detección de movimientos involuntarios en pacient
 es con parálisis cerebral ateoide.toc"'.
@@ -1138,44 +1120,33 @@ L3 programming layer <2020/03/25>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+Package rerunfilecheck Info: File `"Dispositivo de detección de movimientos in
+voluntarios en pacientes con parálisis cerebral ateoide".out' has not changed.
 
-LaTeX Warning: There were undefined references.
-
-
-Package rerunfilecheck Warning: File `"Dispositivo de detección de movimientos
- involuntarios en pacientes con parálisis cerebral ateoide".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Dispositivo de detección de movim
-ientos involuntarios en pacientes con parálisis cerebral ateoide".out':
-(rerunfilecheck)             Before: 0C900A8E6EC05534965911FC56A9D36F;3064
-(rerunfilecheck)             After:  79E73FE9989649B86BDECD6AF42E6467;2955.
+(rerunfilecheck)             Checksum: 0C900A8E6EC05534965911FC56A9D36F;3064.
  ) 
 Here is how much of TeX's memory you used:
- 17896 strings out of 467828
- 295706 string characters out of 5416624
- 782964 words of memory out of 5000000
- 46312 multiletter control sequences out of 15000+600000
- 698859 words of font info for 145 fonts, out of 8000000 for 9000
+ 17928 strings out of 467828
+ 296597 string characters out of 5416624
+ 783226 words of memory out of 5000000
+ 46328 multiletter control sequences out of 15000+600000
+ 703379 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,12n,93p,1100b,849s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-pdfTeX warning (dest): name{chapter*.26} has been referenced but does not exist
-, replaced by a fixed one
-
-<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb>
-<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb>
-<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb
-><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb>
-<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><
-C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C
-:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb><C
-:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
+fb><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pf
+b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
+><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
+<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
+<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro12.pfb>
+<C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
+b>
 Output written on "Dispositivo de detección de movimientos involuntarios en pa
-cientes con parálisis cerebral ateoide.pdf" (25 pages, 1001710 bytes).
+cientes con parálisis cerebral ateoide.pdf" (27 pages, 1028597 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
- 57 named destinations out of 1000 (max. 500000)
- 41131 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 308 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 43179 words of extra memory for PDF output out of 51595 (max. 10000000)
 
