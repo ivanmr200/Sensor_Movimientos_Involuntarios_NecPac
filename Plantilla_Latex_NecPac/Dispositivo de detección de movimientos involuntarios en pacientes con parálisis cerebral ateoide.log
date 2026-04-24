@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  8 APR 2026 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  24 APR 2026 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -516,6 +516,32 @@ LaTeX Info: Redefining \microtypesetup on input line 3065.
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
+(C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen195
+\captionmargin=\dimen196
+\caption@leftmargin=\dimen197
+\caption@rightmargin=\dimen198
+\caption@width=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
+Package caption Info: memoir document class detected.
+
+(C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-memoir.
+sto
+File: caption-memoir.sto 2023/09/08 v2.2c Adaption of the caption package to th
+e memoir document class (AR)
+))
+\c@caption@flags=\count340
+\c@continuedfloat=\count341
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen259
+\caption@adjustwidth@linewidth=\dimen260
+)
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
 
@@ -541,42 +567,42 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
 \everycr=\toks30
 \minrowclearance=\skip192
-\rownum=\count340
+\rownum=\count342
 ) (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/xtab\xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count341
-\PWSTcapht=\dimen195
-\ST@wd=\dimen196
+\c@tracingst=\count343
+\PWSTcapht=\dimen261
+\ST@wd=\dimen262
 \ST@rightskip=\skip193
 \ST@leftskip=\skip194
 \ST@parfillskip=\skip195
-\c@PWSTtable=\count342
-\PWSTlastpage=\count343
-\PWSTpenultimate=\count344
-\PWSTcurpage=\count345
-\PWSTtempc=\count346
-\PWSTlines=\count347
-\PWST@lastht=\dimen197
-\PWST@generalht=\dimen198
-\PWST@ht=\dimen199
-\ST@pageleft=\dimen256
-\ST@headht=\dimen257
-\ST@tailht=\dimen258
-\ST@pagesofar=\dimen259
-\ST@pboxht=\dimen260
-\ST@lineht=\dimen261
-\ST@stretchht=\dimen262
-\ST@prevht=\dimen263
-\ST@toadd=\dimen264
-\ST@dimen=\dimen265
+\c@PWSTtable=\count344
+\PWSTlastpage=\count345
+\PWSTpenultimate=\count346
+\PWSTcurpage=\count347
+\PWSTtempc=\count348
+\PWSTlines=\count349
+\PWST@lastht=\dimen263
+\PWST@generalht=\dimen264
+\PWST@ht=\dimen265
+\ST@pageleft=\dimen266
+\ST@headht=\dimen267
+\ST@tailht=\dimen268
+\ST@pagesofar=\dimen269
+\ST@pboxht=\dimen270
+\ST@lineht=\dimen271
+\ST@stretchht=\dimen272
+\ST@prevht=\dimen273
+\ST@toadd=\dimen274
+\ST@dimen=\dimen275
 \ST@pbox=\box59
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip196
-\multirow@cntb=\count348
+\multirow@cntb=\count350
 \multirow@dima=\skip197
-\bigstrutjot=\dimen266
+\bigstrutjot=\dimen276
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
@@ -605,9 +631,9 @@ ty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen267
-\Hy@linkcounter=\count349
-\Hy@pagecounter=\count350
+\@linkdim=\dimen277
+\Hy@linkcounter=\count351
+\Hy@pagecounter=\count352
  (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -615,7 +641,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count351
+\Hy@SavedSpaceFactor=\count353
  (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -629,14 +655,14 @@ Package hyperref Info: Plain pages OFF on input line 4216.
 Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
-\c@Hy@tempcnt=\count352
+\c@Hy@tempcnt=\count354
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen268
+\XeTeXLinkMargin=\dimen278
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -646,9 +672,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count353
-\Field@Width=\dimen269
-\Fld@charsize=\dimen270
+\Fld@menulength=\count355
+\Field@Width=\dimen279
+\Fld@charsize=\dimen280
 Package hyperref Info: Hyper figures OFF on input line 6084.
 Package hyperref Info: Link nesting OFF on input line 6089.
 Package hyperref Info: Hyper index ON on input line 6092.
@@ -656,16 +682,16 @@ Package hyperref Info: backreferencing OFF on input line 6099.
 Package hyperref Info: Link coloring ON on input line 6102.
 Package hyperref Info: Link coloring with OCG OFF on input line 6109.
 Package hyperref Info: PDF/A mode OFF on input line 6114.
-\Hy@abspage=\count354
-\c@Item=\count355
-\c@Hfootnote=\count356
+\Hy@abspage=\count356
+\c@Item=\count357
+\c@Hfootnote=\count358
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
-\Fld@listcount=\count357
-\c@bookmark@seq@number=\count358
+\Fld@listcount=\count359
+\c@bookmark@seq@number=\count360
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -682,8 +708,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/memoir\memhfixc.sty
 Package: memhfixc 2025/09/16 v1.24 hyperref package fixes for memoir class
-\c@memhycontfloat=\count359
-\c@mem@Hpagenote=\count360
+\c@memhycontfloat=\count361
+\c@mem@Hpagenote=\count362
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
@@ -696,23 +722,23 @@ Package: amstext 2024/11/17 v2.01 AMS text
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks31
-\ex@=\dimen271
+\ex@=\dimen281
 ))
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen272
+\pmbraise@=\dimen282
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count361
+\inf@bad=\count363
 LaTeX Info: Redefining \frac on input line 233.
-\uproot@=\count362
-\leftroot@=\count363
+\uproot@=\count364
+\leftroot@=\count365
 LaTeX Info: Redefining \overline on input line 398.
 LaTeX Info: Redefining \colon on input line 409.
-\classnum@=\count364
-\DOTSCASE@=\count365
+\classnum@=\count366
+\DOTSCASE@=\count367
 LaTeX Info: Redefining \ldots on input line 495.
 LaTeX Info: Redefining \dots on input line 498.
 LaTeX Info: Redefining \cdots on input line 619.
@@ -722,30 +748,30 @@ LaTeX Info: Redefining \big on input line 721.
 LaTeX Info: Redefining \Big on input line 722.
 LaTeX Info: Redefining \bigg on input line 723.
 LaTeX Info: Redefining \Bigg on input line 724.
-\big@size=\dimen273
+\big@size=\dimen283
 LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
-\macc@depth=\count366
+\macc@depth=\count368
 LaTeX Info: Redefining \bmod on input line 904.
 LaTeX Info: Redefining \pmod on input line 909.
 LaTeX Info: Redefining \smash on input line 939.
 LaTeX Info: Redefining \relbar on input line 969.
 LaTeX Info: Redefining \Relbar on input line 970.
-\c@MaxMatrixCols=\count367
+\c@MaxMatrixCols=\count369
 \dotsspace@=\muskip18
-\c@parentequation=\count368
-\dspbrk@lvl=\count369
+\c@parentequation=\count370
+\dspbrk@lvl=\count371
 \tag@help=\toks32
-\row@=\count370
-\column@=\count371
-\maxfields@=\count372
+\row@=\count372
+\column@=\count373
+\maxfields@=\count374
 \andhelp@=\toks33
-\eqnshift@=\dimen274
-\alignsep@=\dimen275
-\tagshift@=\dimen276
-\tagwidth@=\dimen277
-\totwidth@=\dimen278
-\lineht@=\dimen279
+\eqnshift@=\dimen284
+\alignsep@=\dimen285
+\tagshift@=\dimen286
+\tagwidth@=\dimen287
+\totwidth@=\dimen288
+\lineht@=\dimen289
 \@envbody=\toks34
 \multlinegap=\skip256
 \multlinetaggap=\skip257
@@ -768,11 +794,11 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
-\Gin@req@height=\dimen280
-\Gin@req@width=\dimen281
+\Gin@req@height=\dimen290
+\Gin@req@width=\dimen291
 )
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 15
-4.
+5.
  (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -783,41 +809,41 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
  (tex/1_introduccion.aux) (tex/2_objetivos.aux)
-(tex/3_teoricos.aux) (tex/4_metodologia.aux) (tex/5_resultados.aux)
-(tex/6_discusion.aux) (tex/7_conclusiones.aux) (tex/8_lineas_futuras.aux))
+(tex/3_teoricos.aux) (tex/4_soluciones_desarrolladas.aux) (tex/5_resultados.aux
+) (tex/6_discusion.aux) (tex/7_conclusiones.aux) (tex/8_lineas_futuras.aux))
 \openout1 = `"Dispositivo de detección de movimientos involuntarios en pacient
 es con parálisis cerebral ateoide.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Info: Redefining \. on input line 154.
-LaTeX Info: Redefining \% on input line 154.
-LaTeX Info: Redefining \microtypecontext on input line 154.
-Package microtype Info: Applying patch `item' on input line 154.
-Package microtype Info: Applying patch `toc' on input line 154.
-Package microtype Info: Applying patch `eqnum' on input line 154.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 155.
+LaTeX Font Info:    ... okay on input line 155.
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
+LaTeX Info: Redefining \microtypecontext on input line 155.
+Package microtype Info: Applying patch `item' on input line 155.
+Package microtype Info: Applying patch `toc' on input line 155.
+Package microtype Info: Applying patch `eqnum' on input line 155.
 
 
-Package microtype Warning: Unable to apply patch `footnote' on input line 154.
+Package microtype Warning: Unable to apply patch `footnote' on input line 155.
 
-Package microtype Info: Applying patch `verbatim' on input line 154.
-LaTeX Info: Redefining \microtypesetup on input line 154.
+Package microtype Info: Applying patch `verbatim' on input line 155.
+LaTeX Info: Redefining \microtypesetup on input line 155.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -832,19 +858,24 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: xtab package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count373
-\scratchdimen=\dimen282
+\scratchcounter=\count375
+\scratchdimen=\dimen292
 \scratchbox=\box62
-\nofMPsegments=\count374
-\nofMParguments=\count375
+\nofMPsegments=\count376
+\nofMParguments=\count377
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count376
-\MPscratchDim=\dimen283
-\MPnumerator=\count377
-\makeMPintoPDFobject=\count378
+\MPscratchCnt=\count378
+\MPscratchDim=\dimen293
+\MPnumerator=\count379
+\makeMPintoPDFobject=\count380
 \everyMPtoPDFconversion=\toks37
 )
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -857,7 +888,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 154.
+Package hyperref Info: Link coloring ON on input line 155.
 
 (Dispositivo de detección de movimientos involuntarios en pacientes con parál
 isis cerebral ateoide.out)
@@ -867,46 +898,46 @@ isis cerebral ateoide.out)
 \openout4 = `"Dispositivo de detección de movimientos involuntarios en pacient
 es con parálisis cerebral ateoide.out"'.
 
-<./img/CabeceraEPS.png, id=83, 1706.375pt x 376.40625pt>
+<./img/CabeceraEPS.png, id=79, 1706.375pt x 376.40625pt>
 File: ./img/CabeceraEPS.png Graphic file (type png)
 <use ./img/CabeceraEPS.png>
-Package pdftex.def Info: ./img/CabeceraEPS.png  used on input line 156.
+Package pdftex.def Info: ./img/CabeceraEPS.png  used on input line 157.
 (pdftex.def)             Requested size: 383.0pt x 84.48097pt.
-<./img/logo_GIS.png, id=85, 756.8275pt x 478.78876pt>
+<./img/logo_GIS.png, id=81, 756.8275pt x 478.78876pt>
 File: ./img/logo_GIS.png Graphic file (type png)
 <use ./img/logo_GIS.png>
-Package pdftex.def Info: ./img/logo_GIS.png  used on input line 156.
+Package pdftex.def Info: ./img/logo_GIS.png  used on input line 157.
 (pdftex.def)             Requested size: 76.59883pt x 48.45152pt.
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
-56.
+57.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-56.
+57.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-156.
+157.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-156.
+157.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 156.
+(Font)              <12> on input line 157.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 156.
+(Font)              <8> on input line 157.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 156.
+(Font)              <6> on input line 157.
  [1
 
 {C:/Users/Elena/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Elen
@@ -922,8 +953,8 @@ Package microtype Info: Character `029' is missing
 ] [2
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1
-99.
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
+00.
 
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
@@ -944,19 +975,19 @@ LaTeX Info: Redefining \% on input line 2.
 LaTeX Font Warning: Font shape `T1/lmr/bx/sc' undefined
 (Font)              using `T1/lmr/bx/n' instead on input line 3.
 
-[3
+) [3
 
-])
-LaTeX Info: Redefining \. on input line 200.
-LaTeX Info: Redefining \% on input line 200.
+]
+LaTeX Info: Redefining \. on input line 201.
+LaTeX Info: Redefining \% on input line 201.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 200.
+(babel)             Reported on input line 201.
 
 
 Class memoir Warning: The material used in the headers is too large
 (15.35403pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 200.
+(in both cases you will find help in the memoir manual). on input line 201.
 
 
 Overfull \vbox (0.85403pt too high) has occurred while \output is active []
@@ -988,7 +1019,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.211 \include{./tex/1_introduccion}
+l.212 \include{./tex/1_introduccion}
                                      [1
 
 
@@ -1023,60 +1054,124 @@ LaTeX Info: Redefining \% on input line 42.
 LaTeX Info: Redefining \. on input line 57.
 LaTeX Info: Redefining \% on input line 57.
  [7])
-LaTeX Info: Redefining \. on input line 213.
-LaTeX Info: Redefining \% on input line 213.
-
-[8]
-\openout2 = `./tex/4_metodologia.aux'.
-
- (tex/4_metodologia.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9
-
-
-
-
-])
 LaTeX Info: Redefining \. on input line 214.
 LaTeX Info: Redefining \% on input line 214.
 
-[10]
-\openout2 = `./tex/5_resultados.aux'.
+[8]
+\openout2 = `./tex/4_soluciones_desarrolladas.aux'.
 
- (tex/5_resultados.tex) [11
+ (tex/4_soluciones_desarrolladas.tex [9
 
 
 
 
 ]
-\openout2 = `./tex/6_discusion.aux'.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [10]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 3
+6.
 
- (tex/6_discusion.tex [12
+(C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<img/Sensor_distancia.png, id=215, 133.24782pt x 64.74188pt>
+File: img/Sensor_distancia.png Graphic file (type png)
+<use img/Sensor_distancia.png>
+Package pdftex.def Info: img/Sensor_distancia.png  used on input line 52.
+(pdftex.def)             Requested size: 153.19766pt x 74.4417pt.
 
 
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 53.
+See the caption package documentation for explanation.
+
+<img/Sensor_fuerza_inclinacion.png, id=217, 255.95625pt x 156.585pt>
+File: img/Sensor_fuerza_inclinacion.png Graphic file (type png)
+<use img/Sensor_fuerza_inclinacion.png>
+Package pdftex.def Info: img/Sensor_fuerza_inclinacion.png  used on input line 
+60.
+(pdftex.def)             Requested size: 229.80234pt x 140.5859pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 61.
+See the caption package documentation for explanation.
+
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 
 
-]) [13]
-\openout2 = `./tex/7_conclusiones.aux'.
+[11{C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
+ <./img/Sensor_distancia.png>]
+<img/Guante_tinkercad.png, id=231, 644.4075pt x 272.51813pt>
+File: img/Guante_tinkercad.png Graphic file (type png)
+<use img/Guante_tinkercad.png>
+Package pdftex.def Info: img/Guante_tinkercad.png  used on input line 68.
+(pdftex.def)             Requested size: 344.69766pt x 145.77704pt.
 
 
-(tex/7_conclusiones.tex [14
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 69.
+See the caption package documentation for explanation.
+
+<img/Presupuesto_guante.png, id=233, 473.51906pt x 313.9228pt>
+File: img/Presupuesto_guante.png Graphic file (type png)
+<use img/Presupuesto_guante.png>
+Package pdftex.def Info: img/Presupuesto_guante.png  used on input line 80.
+(pdftex.def)             Requested size: 383.0pt x 253.9216pt.
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 81.
+See the caption package documentation for explanation.
+
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
+[12 <./img/Sensor_fuerza_inclinacion.png> <./img/Guante_tinkercad.png>])
+LaTeX Info: Redefining \. on input line 215.
+LaTeX Info: Redefining \% on input line 215.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[13 <./img/Presupuesto_guante.png>]
+\openout2 = `./tex/5_resultados.aux'.
+
+ (tex/5_resultados.tex [14
 
 
 
 
 ]) [15]
-\openout2 = `./tex/8_lineas_futuras.aux'.
+\openout2 = `./tex/6_discusion.aux'.
 
- (tex/8_lineas_futuras.tex [16
+
+(tex/6_discusion.tex [16
 
 
 
 
 ]) [17]
+\openout2 = `./tex/7_conclusiones.aux'.
+
+ (tex/7_conclusiones.tex [18
+
+
+
+
+]) [19]
+\openout2 = `./tex/8_lineas_futuras.aux'.
+
+
+(tex/8_lineas_futuras.tex [20
+
+
+
+
+]) [21]
 (Dispositivo de detección de movimientos involuntarios en pacientes con parál
-isis cerebral ateoide.bbl [18
+isis cerebral ateoide.bbl [22
 
 
 
@@ -1087,9 +1182,9 @@ bibitemlist
 Class memoir Warning: The material used in the headers is too large
 (15.35403pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
-(in both cases you will find help in the memoir manual). on input line 226.
+(in both cases you will find help in the memoir manual). on input line 227.
 
-[19]
+[23]
 \tf@toc=\write5
 \openout5 = `"Dispositivo de detección de movimientos involuntarios en pacient
 es con parálisis cerebral ateoide.toc"'.
@@ -1110,8 +1205,8 @@ LaTeX Info: Redefining \% on input line 12.
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
  (tex/1_introduccion.aux) (tex/2_objetivos.aux)
-(tex/3_teoricos.aux) (tex/4_metodologia.aux) (tex/5_resultados.aux)
-(tex/6_discusion.aux) (tex/7_conclusiones.aux) (tex/8_lineas_futuras.aux))
+(tex/3_teoricos.aux) (tex/4_soluciones_desarrolladas.aux) (tex/5_resultados.aux
+) (tex/6_discusion.aux) (tex/7_conclusiones.aux) (tex/8_lineas_futuras.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1123,16 +1218,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package rerunfilecheck Info: File `"Dispositivo de detección de movimientos in
 voluntarios en pacientes con parálisis cerebral ateoide".out' has not changed.
 
-(rerunfilecheck)             Checksum: 0C900A8E6EC05534965911FC56A9D36F;3064.
+(rerunfilecheck)             Checksum: A4A014A286366EB7502C32D8D40EBD84;3142.
  ) 
 Here is how much of TeX's memory you used:
- 17928 strings out of 467828
- 296597 string characters out of 5416624
- 783226 words of memory out of 5000000
- 46328 multiletter control sequences out of 15000+600000
- 703379 words of font info for 148 fonts, out of 8000000 for 9000
+ 19341 strings out of 467828
+ 325205 string characters out of 5416624
+ 805399 words of memory out of 5000000
+ 47696 multiletter control sequences out of 15000+600000
+ 704615 words of font info for 158 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,12n,93p,1100b,849s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,93p,1100b,810s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
 b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
 b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
@@ -1144,9 +1239,9 @@ b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 <C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
 b>
 Output written on "Dispositivo de detección de movimientos involuntarios en pa
-cientes con parálisis cerebral ateoide.pdf" (27 pages, 1028597 bytes).
+cientes con parálisis cerebral ateoide.pdf" (31 pages, 1336516 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 66 named destinations out of 1000 (max. 500000)
- 43179 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 353 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 45239 words of extra memory for PDF output out of 51595 (max. 10000000)
 

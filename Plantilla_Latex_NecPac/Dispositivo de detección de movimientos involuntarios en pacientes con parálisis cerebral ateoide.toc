@@ -13,15 +13,14 @@
 \contentsline {section}{\numberline {3.2}Estado del arte y trabajos relacionados.}{7}{section.3.2}%
 \contentsline {subsection}{Wearable Devices for Assessment of Tremor}{7}{section*.13}%
 \contentsline {subsection}{Wearable inertial sensors for human movement analysis: a five-year update}{8}{section*.14}%
-\contentsline {chapter}{Metodología}{9}{chapter*.16}%
-\contentsline {section}{\numberline {4.1}Descripción de los datos.}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Técnicas y herramientas.}{9}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Metodología de Ingeniería del Software}{10}{section.4.3}%
-\contentsline {chapter}{Resultados}{11}{chapter*.18}%
-\contentsline {section}{\numberline {5.1}Resumen de resultados.}{11}{section.5.1}%
-\contentsline {chapter}{Discusión}{13}{chapter*.20}%
-\contentsline {section}{\numberline {6.1}Discusión de los resultados}{13}{section.6.1}%
-\contentsline {chapter}{Conclusiones}{15}{chapter*.22}%
-\contentsline {section}{\numberline {7.1}Aspectos relevantes.}{15}{section.7.1}%
-\contentsline {chapter}{Lineas de trabajo futuras}{17}{chapter*.24}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{19}{chapter*.26}%
+\contentsline {chapter}{Soluciones desarrolladas}{9}{chapter*.16}%
+\contentsline {section}{\numberline {4.1}Aplicación web de detección de movimiento involuntarios.}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Guante de detección movimiento involuntarios.}{9}{section.4.2}%
+\contentsline {chapter}{Resultados}{15}{chapter*.18}%
+\contentsline {section}{\numberline {5.1}Resumen de resultados.}{15}{section.5.1}%
+\contentsline {chapter}{Discusión}{17}{chapter*.20}%
+\contentsline {section}{\numberline {6.1}Discusión de los resultados}{17}{section.6.1}%
+\contentsline {chapter}{Conclusiones}{19}{chapter*.22}%
+\contentsline {section}{\numberline {7.1}Aspectos relevantes.}{19}{section.7.1}%
+\contentsline {chapter}{Lineas de trabajo futuras}{21}{chapter*.24}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{23}{chapter*.26}%
