@@ -13,14 +13,23 @@
 \contentsline {section}{\numberline {3.2}Estado del arte y trabajos relacionados.}{7}{section.3.2}%
 \contentsline {subsection}{Wearable Devices for Assessment of Tremor}{7}{section*.13}%
 \contentsline {subsection}{Wearable inertial sensors for human movement analysis: a five-year update}{8}{section*.14}%
-\contentsline {chapter}{Soluciones desarrolladas}{9}{chapter*.16}%
-\contentsline {section}{\numberline {4.1}Aplicación web de detección de movimiento involuntarios.}{9}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Guante de detección movimiento involuntarios.}{9}{section.4.2}%
-\contentsline {chapter}{Resultados}{15}{chapter*.18}%
-\contentsline {section}{\numberline {5.1}Resumen de resultados.}{15}{section.5.1}%
-\contentsline {chapter}{Discusión}{17}{chapter*.20}%
-\contentsline {section}{\numberline {6.1}Discusión de los resultados}{17}{section.6.1}%
-\contentsline {chapter}{Conclusiones}{19}{chapter*.22}%
-\contentsline {section}{\numberline {7.1}Aspectos relevantes.}{19}{section.7.1}%
-\contentsline {chapter}{Lineas de trabajo futuras}{21}{chapter*.24}%
-\contentsline {chapter}{Bibliograf\'{\i }a}{23}{chapter*.26}%
+\contentsline {chapter}{Aplicación web para la detección de movimientos involuntarios}{9}{chapter*.16}%
+\contentsline {section}{\numberline {4.1}Objetivo}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Funcionamiento}{10}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Código}{11}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Interfaz}{12}{section.4.4}%
+\contentsline {subsection}{Selección del nivel de dificultad:}{12}{section*.17}%
+\contentsline {subsection}{Ajuste de tolerancia:}{12}{section*.18}%
+\contentsline {subsection}{Recuadro interactivo:}{13}{section*.19}%
+\contentsline {subsection}{Interfaz global:}{14}{section*.20}%
+\contentsline {subsection}{Posibles mejoras}{15}{section*.21}%
+\contentsline {subsection}{Presupuesto}{15}{section*.22}%
+\contentsline {chapter}{Guante de detección de movimientos involuntarios}{17}{chapter*.24}%
+\contentsline {section}{\numberline {5.1}Objetivos}{17}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Componentes}{18}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Metodología}{18}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Diseño de prototipo}{19}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Funcionamiento}{21}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Presupuesto}{21}{section.5.6}%
+\contentsline {chapter}{Lineas de trabajo futuras}{23}{chapter*.26}%
+\contentsline {chapter}{Bibliograf\'{\i }a}{25}{chapter*.28}%
