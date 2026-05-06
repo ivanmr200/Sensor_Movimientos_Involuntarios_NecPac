@@ -17,47 +17,53 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: apalike.bst
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Database file #1: bibliografia.bib
+Warning--entry type for "ufv_biomedico_salario_espana" isn't style-file defined
+--line 247 of file bibliografia.bib
+Warning--entry type for "hp_15_fd0334ns_pccomponentes" isn't style-file defined
+--line 263 of file bibliografia.bib
+Warning--entry type for "conceptronic_regas_tw5_pccomponentes" isn't style-file defined
+--line 279 of file bibliografia.bib
 Warning--empty journal in PercyMartnez2025
 Warning--empty journal in GarciaRon2022
-You've used 13 entries,
+You've used 16 entries,
             1935 wiz_defined-function locations,
-            551 strings with 5887 characters,
-and the built_in function-call counts, 4061 in all, are:
-= -- 386
-> -- 185
-< -- 11
-+ -- 62
-- -- 62
-* -- 310
-:= -- 773
-add.period$ -- 30
-call.type$ -- 13
-change.case$ -- 96
-chr.to.int$ -- 13
-cite$ -- 15
-duplicate$ -- 153
-empty$ -- 246
-format.name$ -- 77
-if$ -- 754
+            560 strings with 6247 characters,
+and the built_in function-call counts, 4796 in all, are:
+= -- 464
+> -- 206
+< -- 14
++ -- 68
+- -- 68
+* -- 355
+:= -- 920
+add.period$ -- 39
+call.type$ -- 16
+change.case$ -- 114
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 183
+empty$ -- 291
+format.name$ -- 86
+if$ -- 889
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 5
-newline$ -- 59
-num.names$ -- 39
-pop$ -- 78
+newline$ -- 74
+num.names$ -- 48
+pop$ -- 87
 preamble$ -- 1
-purify$ -- 96
+purify$ -- 114
 quote$ -- 0
-skip$ -- 131
+skip$ -- 158
 stack$ -- 0
-substring$ -- 204
+substring$ -- 240
 swap$ -- 8
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 78
+type$ -- 96
 warning$ -- 2
-while$ -- 30
+while$ -- 36
 width$ -- 0
-write$ -- 142
-(There were 2 warnings)
+write$ -- 178
+(There were 5 warnings)
