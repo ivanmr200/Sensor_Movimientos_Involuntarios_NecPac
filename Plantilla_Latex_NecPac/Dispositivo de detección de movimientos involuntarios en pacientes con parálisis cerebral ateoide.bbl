@@ -1,23 +1,44 @@
 \begin{thebibliography}{}
 
-\bibitem[ASPACE, ]{ASPACE}
-ASPACE.
+\bibitem[{ASPACE}, sf]{ASPACE}
+{ASPACE} (s.f).
 \newblock Tipos de parálisis cerebral - aspace.
 
-\bibitem[Clinic, ]{MayoClinic}
-Clinic, M.
-\newblock Parálisis cerebral infantil - síntomas y causas - mayo clinic.
+\bibitem[{ASPACE Galicia}, 2024]{ASPACEGalicia2024}
+{ASPACE Galicia} (2024).
+\newblock Entendiendo los diferentes tipos de parálisis cerebral - federación
+  aspace galicia.
+
+\bibitem[{Centro de Neurología Avanzada}, 2025]{CentrodeNeurologaAvanzada2025}
+{Centro de Neurología Avanzada} (2025).
+\newblock ¿qué es la parálisis cerebral? causas, tipos y síntomas - cna.
+
+\bibitem[{eFISIO}, 2022]{eFISIO2022}
+{eFISIO} (2022).
+\newblock Parálisis cerebral discinética: Causas y tratamiento - efisio
+  fisioterapia madrid.
+
+\bibitem[{eFISIO}, 2023]{eFISIO2023}
+{eFISIO} (2023).
+\newblock Parálisis cerebral atáxica: Causas y tratamiento - efisio
+  fisioterapia madrid.
 
 \bibitem[Li and Arya, 2022]{Li2022}
 Li, X. and Arya, K. (2022).
 \newblock Athetoid cerebral palsy.
 \newblock {\em Definitions}.
 
-\bibitem[Muñoz, ]{Madrigal}
-Muñoz, A.~M.
-\newblock La parÁlisis cerebral.
-\newblock Technical report, Observatorio de la Discapacidad - Instituto de
-  Mayores y Servicios Sociales (IMSERSO).
+\bibitem[Martínez, 2025]{PercyMartnez2025}
+Martínez, P. (2025).
+\newblock Athetoid cerebral palsy: Symptoms, care \& malpractice.
+
+\bibitem[{Mayo Clinic}, 2024]{MayoClinic2024}
+{Mayo Clinic} (2024).
+\newblock Parálisis cerebral infantil - síntomas y causas - mayo clinic.
+
+\bibitem[{MedlinePlus}, 2024]{MedlinePlus2024}
+{MedlinePlus} (2024).
+\newblock Parálisis cerebral: Medlineplus en español.
 
 \bibitem[Picerno et~al., 2021]{Picerno2021}
 Picerno, P., Iosa, M., D’Souza, C., Benedetti, M.~G., Paolucci, S., and
@@ -25,6 +46,16 @@ Picerno, P., Iosa, M., D’Souza, C., Benedetti, M.~G., Paolucci, S., and
 \newblock Wearable inertial sensors for human movement analysis: a five-year
   update.
 \newblock {\em Expert review of medical devices}, 18:79--94.
+
+\bibitem[Ron et~al., 2022]{GarciaRon2022}
+Ron, A.~G., Pereda, G.~A., Casas, I. S.~M., Pascual, I.~P., Luis, M.~G., Ribes,
+  A.~G., Mercado, C.~P., Albesa, S.~A., and Segura, J. L.~P. (2022).
+\newblock Parálisis cerebral.
+\newblock pages 1--12.
+
+\bibitem[{Vall d'Hebron}, 2026]{ValldHebron2026}
+{Vall d'Hebron} (2026).
+\newblock Parálisis cerebral | hospital universitario vall d'hebron.
 
 \bibitem[Vescio et~al., 2021]{Vescio2021}
 Vescio, B., Quattrone, A., Nisticò, R., Crasà, M., and Quattrone, A. (2021).

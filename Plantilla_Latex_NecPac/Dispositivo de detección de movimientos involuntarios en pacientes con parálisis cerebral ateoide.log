@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  6 MAY 2026 17:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.1) (preloaded format=pdflatex 2026.2.13)  6 MAY 2026 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1050,17 +1050,32 @@ l.1 \capitulo{2}{Objetivos}
 
 
 
-] [5]
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
- [6]
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
- [7])
+]
+Overfull \hbox (81.87953pt too wide) in paragraph at lines 14--15
+\T1/lmr/m/n/12 (-20) rus o bac-te-rias, con-vul-sio-nes o di-fi-cul-ta-des en e
+l par-to [[]]. 
+ []
+
+
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+ [5]
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+
+[6]
+Underfull \vbox (badness 5077) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 54.
+LaTeX Info: Redefining \% on input line 54.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
+
+
+[7])
 LaTeX Info: Redefining \. on input line 224.
 LaTeX Info: Redefining \% on input line 224.
-
-[8]
+ [8]
 \openout2 = `./tex/5_aplicacion.aux'.
 
  (tex/5_aplicacion.tex [9
@@ -1069,7 +1084,7 @@ LaTeX Info: Redefining \% on input line 224.
 
 
 ]
-<img/niveles.png, id=239, 1826.825pt x 657.45625pt>
+<img/niveles.png, id=257, 1826.825pt x 657.45625pt>
 File: img/niveles.png Graphic file (type png)
 <use img/niveles.png>
 Package pdftex.def Info: img/niveles.png  used on input line 17.
@@ -1094,7 +1109,7 @@ Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 [11
 
 ]
-<img/nivel_dificultad.png, id=249, 690.78075pt x 160.1985pt>
+<img/nivel_dificultad.png, id=267, 690.78075pt x 160.1985pt>
 File: img/nivel_dificultad.png Graphic file (type png)
 <use img/nivel_dificultad.png>
 Package pdftex.def Info: img/nivel_dificultad.png  used on input line 60.
@@ -1105,7 +1120,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 61.
 See the caption package documentation for explanation.
 
-<img/tolerancia.png, id=250, 693.792pt x 60.82726pt>
+<img/tolerancia.png, id=268, 693.792pt x 60.82726pt>
 File: img/tolerancia.png Graphic file (type png)
 <use img/tolerancia.png>
 Package pdftex.def Info: img/tolerancia.png  used on input line 69.
@@ -1118,7 +1133,7 @@ See the caption package documentation for explanation.
 LaTeX Info: Redefining \. on input line 70.
 LaTeX Info: Redefining \% on input line 70.
 [12 <./img/nivel_dificultad.png>]
-<img/prueba_trayectoria.png, id=258, 563.10374pt x 263.18324pt>
+<img/prueba_trayectoria.png, id=276, 563.10374pt x 263.18324pt>
 File: img/prueba_trayectoria.png Graphic file (type png)
 <use img/prueba_trayectoria.png>
 Package pdftex.def Info: img/prueba_trayectoria.png  used on input line 78.
@@ -1129,7 +1144,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 79.
 See the caption package documentation for explanation.
 
-<img/resultados.png, id=259, 558.28575pt x 319.1925pt>
+<img/resultados.png, id=277, 558.28575pt x 319.1925pt>
 File: img/resultados.png Graphic file (type png)
 <use img/resultados.png>
 Package pdftex.def Info: img/resultados.png  used on input line 89.
@@ -1143,7 +1158,7 @@ LaTeX Info: Redefining \. on input line 95.
 LaTeX Info: Redefining \% on input line 95.
 [13 <./img/tolerancia.png> <./img/prueba_trayectoria.png> <./img/resultados.png
 >]
-<img/trayectoria_guardada.png, id=268, 803.0pt x 281.05pt>
+<img/trayectoria_guardada.png, id=286, 803.0pt x 281.05pt>
 File: img/trayectoria_guardada.png Graphic file (type png)
 <use img/trayectoria_guardada.png>
 Package pdftex.def Info: img/trayectoria_guardada.png  used on input line 96.
@@ -1154,7 +1169,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 97.
 See the caption package documentation for explanation.
 
-<img/interfaz_global.png, id=269, 735.9495pt x 498.06075pt>
+<img/interfaz_global.png, id=287, 735.9495pt x 498.06075pt>
 File: img/interfaz_global.png Graphic file (type png)
 <use img/interfaz_global.png>
 Package pdftex.def Info: img/interfaz_global.png  used on input line 106.
@@ -1197,7 +1212,7 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 4
 (C:\Users\Elena\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<img/Sensor_distancia.png, id=298, 133.24782pt x 64.74188pt>
+<img/Sensor_distancia.png, id=316, 133.24782pt x 64.74188pt>
 File: img/Sensor_distancia.png Graphic file (type png)
 <use img/Sensor_distancia.png>
 Package pdftex.def Info: img/Sensor_distancia.png  used on input line 58.
@@ -1212,7 +1227,7 @@ LaTeX Info: Redefining \. on input line 59.
 LaTeX Info: Redefining \% on input line 59.
 [19{C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}
 ]
-<img/Sensor_fuerza_inclinacion.png, id=310, 255.95625pt x 156.585pt>
+<img/Sensor_fuerza_inclinacion.png, id=328, 255.95625pt x 156.585pt>
 File: img/Sensor_fuerza_inclinacion.png Graphic file (type png)
 <use img/Sensor_fuerza_inclinacion.png>
 Package pdftex.def Info: img/Sensor_fuerza_inclinacion.png  used on input line 
@@ -1224,7 +1239,7 @@ Package caption Warning: The option `hypcap=true' will be ignored for this
 (caption)                particular \caption on input line 67.
 See the caption package documentation for explanation.
 
-<img/Guante_tinkercad.png, id=312, 644.4075pt x 272.51813pt>
+<img/Guante_tinkercad.png, id=330, 644.4075pt x 272.51813pt>
 File: img/Guante_tinkercad.png Graphic file (type png)
 <use img/Guante_tinkercad.png>
 Package pdftex.def Info: img/Guante_tinkercad.png  used on input line 74.
@@ -1238,7 +1253,7 @@ LaTeX Info: Redefining \. on input line 83.
 LaTeX Info: Redefining \% on input line 83.
 [20 <./img/Sensor_distancia.png> <./img/Sensor_fuerza_inclinacion.png> <./img/G
 uante_tinkercad.png>]
-<img/Presupuesto_guante.png, id=321, 473.51906pt x 313.9228pt>
+<img/Presupuesto_guante.png, id=339, 473.51906pt x 313.9228pt>
 File: img/Presupuesto_guante.png Graphic file (type png)
 <use img/Presupuesto_guante.png>
 Package pdftex.def Info: img/Presupuesto_guante.png  used on input line 91.
@@ -1268,18 +1283,24 @@ LaTeX Info: Redefining \% on input line 227.
 (Dispositivo de detección de movimientos involuntarios en pacientes con parál
 isis cerebral ateoide.bbl
 bibitemlist
-)
+[25
+
+
+
+])
 
 Class memoir Warning: The material used in the headers is too large
 (15.35403pt) for the given head height (14.5pt), it is recommended to
 either increase the head height or redesign the header
 (in both cases you will find help in the memoir manual). on input line 235.
 
-[25
+LaTeX Info: Redefining \. on input line 235.
+LaTeX Info: Redefining \% on input line 235.
+
+Overfull \vbox (0.85403pt too high) has occurred while \output is active []
 
 
-
-]
+[26]
 \tf@toc=\write5
 \openout5 = `"Dispositivo de detección de movimientos involuntarios en pacient
 es con parálisis cerebral ateoide.toc"'.
@@ -1313,22 +1334,16 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 LaTeX Warning: There were multiply-defined labels.
 
+Package rerunfilecheck Info: File `"Dispositivo de detección de movimientos in
+voluntarios en pacientes con parálisis cerebral ateoide".out' has not changed.
 
-Package rerunfilecheck Warning: File `"Dispositivo de detección de movimientos
- involuntarios en pacientes con parálisis cerebral ateoide".out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `"Dispositivo de detección de movim
-ientos involuntarios en pacientes con parálisis cerebral ateoide".out':
-(rerunfilecheck)             Before: E48B7F393ED644265D857A0F1124968F;3326
-(rerunfilecheck)             After:  18134080185EBFCD974E3A88AC8747FB;3304.
+(rerunfilecheck)             Checksum: 18134080185EBFCD974E3A88AC8747FB;3304.
  ) 
 Here is how much of TeX's memory you used:
- 19408 strings out of 467828
- 325220 string characters out of 5416624
- 803649 words of memory out of 5000000
- 47725 multiletter control sequences out of 15000+600000
+ 19425 strings out of 467828
+ 325548 string characters out of 5416624
+ 804086 words of memory out of 5000000
+ 47734 multiletter control sequences out of 15000+600000
  706245 words of font info for 176 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,12n,93p,1100b,849s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1343,9 +1358,9 @@ b><C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 <C:/Users/Elena/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pf
 b>
 Output written on "Dispositivo de detección de movimientos involuntarios en pa
-cientes con parálisis cerebral ateoide.pdf" (33 pages, 1949864 bytes).
+cientes con parálisis cerebral ateoide.pdf" (34 pages, 1962070 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
+ 433 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
  45298 words of extra memory for PDF output out of 51595 (max. 10000000)
 
