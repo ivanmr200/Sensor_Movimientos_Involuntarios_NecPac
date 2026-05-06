@@ -18,6 +18,8 @@ En este proyecto se proponen dos soluciones tecnológicas orientadas a la identi
 
 - En primer lugar, se desarrolla una **aplicación web** denominada **InvoluntTrack**, que evalúa la capacidad del paciente para seguir trayectorias predefinidas mediante el cursor, registrando desviaciones interpretadas como posibles movimientos involuntarios y permitiendo obtener una representación visual y cuantitativa de posibles movimientos involuntarios.
 
+  - Enlace a la aplicación: https://involunttrack.streamlit.app/
+
 - Complementariamente, se ha diseñado un **prototipo de guante sensorizado** basado en microcontroladores y sensores de distancia, fuerza e inclinación, que mide datos relacionados con el movimiento. A partir de la comparación entre patrones normales y patológicos, el sistema permite identificar desviaciones que puedan asociarse con determinadas enfermedades.
 
 
