@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 MAY 2026 23:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  7 MAY 2026 00:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1357,11 +1357,11 @@ voluntarios en pacientes con parálisis cerebral ateoide".out' has not changed.
 (rerunfilecheck)             Checksum: 0ACE3C8C0497B5317FEEC4789723C891;3556.
  ) 
 Here is how much of TeX's memory you used:
- 19513 strings out of 467867
- 326196 string characters out of 5418335
+ 19511 strings out of 467867
+ 326174 string characters out of 5418335
  805147 words of memory out of 5000000
  47780 multiletter control sequences out of 15000+600000
- 707605 words of font info for 186 fonts, out of 8000000 for 9000
+ 707514 words of font info for 185 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,12n,93p,1100b,849s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
@@ -1376,7 +1376,7 @@ b><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
 b><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pf
 b>
 Output written on "Dispositivo de detección de movimientos involuntarios en pa
-cientes con parálisis cerebral ateoide.pdf" (34 pages, 1860303 bytes).
+cientes con parálisis cerebral ateoide.pdf" (34 pages, 1860398 bytes).
 PDF statistics:
  459 PDF objects out of 1000 (max. 8388607)
  106 named destinations out of 1000 (max. 500000)
