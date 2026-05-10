@@ -10,7 +10,7 @@
 \contentsline {subsection}{¿Qué es la parálisis cerebral?}{5}{section*.10}%
 \contentsline {subsection}{Tipos de parálisis cerebral}{6}{section*.11}%
 \contentsline {subsection}{Parálisis cerebral ateoitde}{7}{section*.12}%
-\contentsline {section}{\numberline {3.2}Estado del arte y trabajos relacionados.}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Estado del arte y trabajos relacionados.}{7}{section.3.2}%
 \contentsline {subsection}{Wearable Devices for Assessment of Tremor}{8}{section*.13}%
 \contentsline {subsection}{Wearable inertial sensors for human movement analysis: a five-year update}{8}{section*.14}%
 \contentsline {chapter}{Aplicación web para la detección de movimientos involuntarios}{9}{chapter*.16}%
