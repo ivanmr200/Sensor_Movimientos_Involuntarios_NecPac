@@ -22,5 +22,11 @@ En este proyecto se proponen dos soluciones tecnológicas orientadas a la identi
 
 - Complementariamente, se ha diseñado un **prototipo de guante sensorizado** basado en microcontroladores y sensores de distancia, fuerza e inclinación, que mide datos relacionados con el movimiento. A partir de la comparación entre patrones normales y patológicos, el sistema permite identificar desviaciones que puedan asociarse con determinadas enfermedades.
 
-
 Este proyecto sienta las bases para el desarrollo de soluciones innovadoras en el ámbito del apoyo al diagnóstico y monitorización de trastornos motores y neurológicos.
+
+<video 
+    src="./Video MovInvoluntarios.mp4" 
+    controls 
+    width="800"
+    muted>
+</video>
