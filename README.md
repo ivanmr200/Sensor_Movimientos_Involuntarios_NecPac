@@ -24,9 +24,3 @@ En este proyecto se proponen dos soluciones tecnológicas orientadas a la identi
 
 Este proyecto sienta las bases para el desarrollo de soluciones innovadoras en el ámbito del apoyo al diagnóstico y monitorización de trastornos motores y neurológicos.
 
-<video 
-    src="./Video MovInvoluntarios.mp4" 
-    controls 
-    width="800"
-    muted>
-</video>
